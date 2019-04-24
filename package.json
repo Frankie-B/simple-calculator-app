@@ -1,0 +1,22 @@
+{
+  "name": "simple-calculator-app",
+  "version": "1.0.0",
+  "description": "This is a simple calculator app using node.js and express.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankie-B/simple-calculator-app.git"
+  },
+  "author": "Frankie Bukenya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankie-B/simple-calculator-app/issues"
+  },
+  "homepage": "https://github.com/Frankie-B/simple-calculator-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
